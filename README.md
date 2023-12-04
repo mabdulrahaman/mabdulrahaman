@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mabdulrahaman
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning infinite game
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
